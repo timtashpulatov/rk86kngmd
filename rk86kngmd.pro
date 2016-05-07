@@ -1,4 +1,4 @@
-update=Сб 07 май 2016 08:33:22
+update=Сб 07 май 2016 08:44:50
 version=1
 last_client=kicad
 [cvpcb]
@@ -23,8 +23,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=к580
+[general]
+version=1
