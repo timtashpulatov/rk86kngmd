@@ -1,4 +1,4 @@
-update=Сб 07 май 2016 08:44:50
+update=07/05/2016 13:58:51
 version=1
 last_client=kicad
 [cvpcb]
@@ -59,3 +59,13 @@ LibName29=valves
 LibName30=к580
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

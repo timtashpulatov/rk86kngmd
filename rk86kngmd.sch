@@ -582,29 +582,29 @@ Text Label 11550 6500 0    50   ~ 0
 RDDATA
 Text Label 6200 3850 1    60   ~ 0
 17
-Text GLabel 13500 4650 2    60   Output ~ 0
+Text GLabel 13500 4650 2    50   Output ~ 0
 WR_GATE
-Text GLabel 13500 4750 2    60   Output ~ 0
+Text GLabel 13500 4750 2    50   Output ~ 0
 DIR
-Text GLabel 13500 4850 2    60   Output ~ 0
+Text GLabel 13500 4850 2    50   Output ~ 0
 SIDE
-Text GLabel 13500 4950 2    60   Output ~ 0
+Text GLabel 13500 4950 2    50   Output ~ 0
 STEP
-Text GLabel 13500 5050 2    60   Output ~ 0
+Text GLabel 13500 5050 2    50   Output ~ 0
 DISC_B
-Text GLabel 13500 5150 2    60   Output ~ 0
+Text GLabel 13500 5150 2    50   Output ~ 0
 DISC_A
-Text GLabel 13500 5350 2    60   Output ~ 0
+Text GLabel 13500 5350 2    50   Output ~ 0
 WR_DATA
-Text GLabel 13500 6150 2    60   Input ~ 0
+Text GLabel 13500 6150 2    50   Input ~ 0
 RD_DATA
-Text GLabel 13500 6250 2    60   Input ~ 0
+Text GLabel 13500 6250 2    50   Input ~ 0
 WPRT
-Text GLabel 13500 6350 2    60   Input ~ 0
+Text GLabel 13500 6350 2    50   Input ~ 0
 READY
-Text GLabel 13500 6450 2    60   Input ~ 0
+Text GLabel 13500 6450 2    50   Input ~ 0
 TR00
-Text GLabel 13500 6550 2    60   Input ~ 0
+Text GLabel 13500 6550 2    50   Input ~ 0
 IP
 Text Label 11900 6150 0    50   ~ 0
 RDDATA
@@ -667,7 +667,7 @@ F 3 "" H 13200 6750 50  0000 C CNN
 	1    13200 6750
 	-1   0    0    1   
 $EndComp
-Text GLabel 13500 6950 2    60   UnSpc ~ 0
+Text GLabel 13500 6950 2    50   UnSpc ~ 0
 +5V
 Text GLabel 9700 3450 0    60   UnSpc ~ 0
 +5V
@@ -675,7 +675,7 @@ Text GLabel 11850 3450 0    60   UnSpc ~ 0
 +5V
 Text Label 6250 4400 0    50   ~ 0
 WRGATE
-Text GLabel 4850 8050 0    60   UnSpc ~ 0
+Text GLabel 4850 8050 0    50   UnSpc ~ 0
 +5V
 Text Notes 4550 8200 0    60   ~ 0
 Б1,Б30
@@ -690,7 +690,7 @@ F 3 "" H 5000 8400 50  0000 C CNN
 	1    5000 8400
 	1    0    0    -1  
 $EndComp
-Text GLabel 4850 8350 0    60   UnSpc ~ 0
+Text GLabel 4850 8350 0    50   UnSpc ~ 0
 GND
 Text Notes 4900 8350 0    60   ~ 0
 А1,А30
@@ -720,7 +720,7 @@ Text Notes 13350 6550 0    60   ~ 0
 3
 Text Notes 13350 6950 0    60   ~ 0
 2
-Text GLabel 13500 7200 2    60   UnSpc ~ 0
+Text GLabel 13500 7200 2    50   UnSpc ~ 0
 ОБЩ
 $Comp
 L GND #PWR06
@@ -825,9 +825,9 @@ Text Label 11900 6250 0    50   ~ 0
 WPROT
 Text Label 11900 6350 0    50   ~ 0
 READY
-Text GLabel 12300 6950 0    60   UnSpc ~ 0
+Text GLabel 12300 6950 0    50   UnSpc ~ 0
 VCC
-Text GLabel 13200 7200 0    60   UnSpc ~ 0
+Text GLabel 13200 7200 0    50   UnSpc ~ 0
 GND
 $Comp
 L GND #PWR07
@@ -840,11 +840,11 @@ F 3 "" H 15150 6950 50  0000 C CNN
 	1    15150 6950
 	1    0    0    -1  
 $EndComp
-Text GLabel 15150 6850 0    60   UnSpc ~ 0
+Text GLabel 15150 6850 0    50   UnSpc ~ 0
 VCC
 Text Label 4100 3500 0    50   ~ 0
 A2
-Text GLabel 15150 5750 0    60   Output ~ 0
+Text GLabel 15150 5750 0    50   Output ~ 0
 SIDE
 Text Label 11700 6200 0    50   ~ 0
 17
@@ -1043,25 +1043,25 @@ F 3 "" H 15350 5750 50  0000 C CNN
 	1    15350 5750
 	1    0    0    -1  
 $EndComp
-Text GLabel 15150 5850 0    60   Input ~ 0
+Text GLabel 15150 5850 0    50   Input ~ 0
 RD_DATA
-Text GLabel 15150 5950 0    60   Input ~ 0
+Text GLabel 15150 5950 0    50   Input ~ 0
 WPRT
-Text GLabel 15150 6050 0    60   Input ~ 0
+Text GLabel 15150 6050 0    50   Input ~ 0
 TR00
-Text GLabel 15150 6150 0    60   Output ~ 0
+Text GLabel 15150 6150 0    50   Output ~ 0
 WR_GATE
-Text GLabel 15150 6250 0    60   Output ~ 0
+Text GLabel 15150 6250 0    50   Output ~ 0
 WR_DATA
-Text GLabel 15150 6350 0    60   Output ~ 0
+Text GLabel 15150 6350 0    50   Output ~ 0
 STEP
-Text GLabel 15150 6450 0    60   Output ~ 0
+Text GLabel 15150 6450 0    50   Output ~ 0
 DIR
-Text GLabel 15150 6550 0    60   Output ~ 0
+Text GLabel 15150 6550 0    50   Output ~ 0
 DISC_B
-Text GLabel 15150 6650 0    60   Output ~ 0
+Text GLabel 15150 6650 0    50   Output ~ 0
 DISC_A
-Text GLabel 15150 6750 0    60   Input ~ 0
+Text GLabel 15150 6750 0    50   Input ~ 0
 IP
 Text Label 1250 3950 0    50   ~ 0
 RD
@@ -1303,7 +1303,7 @@ Wire Wire Line
 Wire Wire Line
 	6600 7000 7000 7000
 Wire Wire Line
-	5800 7500 9150 7500
+	9150 7500 5800 7500
 Wire Wire Line
 	6850 7500 6850 6900
 Wire Wire Line
@@ -1311,7 +1311,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 6750 6950 6750
 Wire Wire Line
-	6950 6750 6950 7600
+	6950 7600 6950 6750
 Wire Wire Line
 	6950 7150 7000 7150
 Wire Wire Line
@@ -1351,7 +1351,7 @@ Connection ~ 8500 7000
 Wire Wire Line
 	9150 7050 8900 7050
 Wire Wire Line
-	9150 7500 9150 4300
+	9150 4300 9150 7500
 Connection ~ 6850 7500
 Connection ~ 9150 7050
 Wire Wire Line
@@ -1646,12 +1646,6 @@ Wire Wire Line
 	11850 5900 12400 5900
 Connection ~ 12300 5900
 Wire Wire Line
-	5800 3100 6100 3100
-Wire Wire Line
-	5800 3200 6100 3200
-Wire Wire Line
-	5800 3300 6100 3300
-Wire Wire Line
 	5800 3400 6100 3400
 Wire Wire Line
 	5800 3500 6100 3500
@@ -1677,8 +1671,6 @@ Wire Wire Line
 	5800 4550 6100 4550
 Wire Wire Line
 	5800 4650 6100 4650
-Wire Bus Line
-	6100 3100 6100 4900
 Wire Bus Line
 	6100 4900 6200 4900
 Wire Bus Line
@@ -2138,7 +2130,7 @@ F 3 "" H 15350 5650 50  0000 C CNN
 	1    15350 5650
 	1    0    0    -1  
 $EndComp
-Text GLabel 15150 5650 0    60   Input ~ 0
+Text GLabel 15150 5650 0    50   Input ~ 0
 READY
 Text Notes 5950 4050 0    25   ~ 0
 DIR
@@ -2154,4 +2146,6 @@ Text Notes 5950 4550 0    25   ~ 0
 SYNCHRO
 Text Notes 5950 4650 0    25   ~ 0
 BUF
+Wire Bus Line
+	6100 3100 6100 4900
 $EndSCHEMATC
