@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:к580
+LIBS:rk86kngmd-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1259,9 +1260,9 @@ Wire Wire Line
 	5200 5500 5200 6200
 Connection ~ 5200 6200
 Wire Wire Line
-	5300 6000 7050 6000
+	5600 6000 7050 6000
 Wire Wire Line
-	5300 6000 5300 7100
+	5600 6000 5600 7100
 Wire Wire Line
 	4700 6950 4800 6950
 Wire Wire Line
@@ -1274,7 +1275,7 @@ Wire Wire Line
 Wire Wire Line
 	6800 6100 7050 6100
 Wire Wire Line
-	5300 7100 6100 7100
+	5600 7100 6100 7100
 Wire Wire Line
 	6100 6650 6000 6650
 Wire Wire Line
@@ -1303,7 +1304,7 @@ Wire Wire Line
 Wire Wire Line
 	6600 7000 7000 7000
 Wire Wire Line
-	9150 7500 5800 7500
+	5800 7500 9150 7500
 Wire Wire Line
 	6850 7500 6850 6900
 Wire Wire Line
@@ -1311,7 +1312,7 @@ Wire Wire Line
 Wire Wire Line
 	7000 6750 6950 6750
 Wire Wire Line
-	6950 7600 6950 6750
+	6950 6750 6950 7600
 Wire Wire Line
 	6950 7150 7000 7150
 Wire Wire Line
@@ -1351,7 +1352,7 @@ Connection ~ 8500 7000
 Wire Wire Line
 	9150 7050 8900 7050
 Wire Wire Line
-	9150 4300 9150 7500
+	9150 7500 9150 4300
 Connection ~ 6850 7500
 Connection ~ 9150 7050
 Wire Wire Line
@@ -2148,4 +2149,84 @@ Text Notes 5950 4650 0    25   ~ 0
 BUF
 Wire Bus Line
 	6100 3100 6100 4900
+Text Notes 8900 6850 0    60   ~ 0
+ИСС
+Text Notes 8900 7050 0    60   ~ 0
+ИСД
+Text Notes 8150 8150 0    60   ~ 0
+ИСС
+Text Notes 8150 8400 0    60   ~ 0
+ИСД
+Wire Wire Line
+	8450 8150 8550 8150
+Wire Wire Line
+	8550 8150 8550 8050
+Wire Wire Line
+	8550 8050 8650 8050
+Wire Wire Line
+	8650 8050 8650 8150
+Wire Wire Line
+	8650 8150 8950 8150
+Wire Wire Line
+	8950 8150 8950 8050
+Wire Wire Line
+	8950 8050 9050 8050
+Wire Wire Line
+	9050 8050 9050 8150
+Wire Wire Line
+	9050 8150 9350 8150
+Wire Wire Line
+	9350 8150 9350 8050
+Wire Wire Line
+	9350 8050 9450 8050
+Wire Wire Line
+	9450 8050 9450 8150
+Wire Wire Line
+	9450 8150 9550 8150
+Wire Wire Line
+	8450 8400 8750 8400
+Wire Wire Line
+	8750 8400 8750 8300
+Wire Wire Line
+	8750 8300 8850 8300
+Wire Wire Line
+	8850 8300 8850 8400
+Wire Wire Line
+	8850 8400 9150 8400
+Wire Wire Line
+	9150 8400 9150 8300
+Wire Wire Line
+	9150 8300 9250 8300
+Wire Wire Line
+	9250 8300 9250 8400
+Wire Wire Line
+	9250 8400 9550 8400
+Wire Notes Line
+	8550 8000 9050 8000
+Text Notes 8700 8000 0    50   ~ 0
+8us
+Wire Bus Line
+	8450 8500 9550 8500
+Wire Bus Line
+	8550 8500 8550 8450
+Wire Bus Line
+	8650 8500 8650 8450
+Wire Bus Line
+	8750 8500 8750 8450
+Wire Bus Line
+	8850 8500 8850 8450
+Wire Bus Line
+	8950 8500 8950 8450
+Wire Bus Line
+	9050 8500 9050 8450
+Wire Bus Line
+	9150 8500 9150 8450
+Wire Bus Line
+	9250 8500 9250 8450
+Wire Bus Line
+	9350 8500 9350 8450
+Wire Bus Line
+	9450 8500 9450 8450
+Text Notes 8550 8600 0    50   ~ 0
+2us
 $EndSCHEMATC
