@@ -1,6 +1,5 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
-
 #
 # SystemConnector
 #
@@ -293,7 +292,7 @@ F1 "К555ЛА3" 0 -150 25 H I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
-T 0 -50 50 25 0 0 0 &  Normal 0 C C
+T 0 -50 50 50 0 0 0 &  Normal 0 C C
 S -100 100 50 -100 0 1 0 f
 X GND 7 0 -250 100 L 50 50 0 1 W N
 X VCC 14 0 -350 100 L 50 50 0 1 W N
@@ -320,7 +319,7 @@ F1 "К555ЛЕ1" 0 -150 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
-T 0 -50 50 25 0 0 0 1  Normal 0 C C
+T 0 -50 50 50 0 0 0 1  Normal 0 C C
 S -100 100 50 -100 0 1 0 f
 X GND 7 -150 -300 100 D 50 50 0 1 W NX
 X VCC 14 50 -300 100 D 50 50 0 1 W NX
@@ -347,7 +346,7 @@ F1 "К555ЛИ1" 0 0 25 H I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
-T 0 -50 50 25 0 0 0 &  Normal 0 C C
+T 0 -50 50 50 0 0 0 &  Normal 0 C C
 S -100 100 50 -100 0 1 0 f
 X GND 7 -100 -250 100 D 50 50 0 1 W NX
 X VCC 14 100 -250 100 D 50 50 0 1 W NX
@@ -374,7 +373,7 @@ F1 "К555ЛЛ1" 0 -150 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
-T 0 -50 50 25 0 0 0 1  Normal 0 C C
+T 0 -50 50 50 0 0 0 1  Normal 0 C C
 S -100 100 50 -100 0 1 0 f
 X GND 7 -150 -450 100 D 50 50 0 1 W NX
 X VCC 14 100 -450 100 D 50 50 0 1 W NX
