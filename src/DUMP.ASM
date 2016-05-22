@@ -6,6 +6,10 @@
 ;	CALIFORNIA, 93950
 ;
 
+	.binfile DUMP.RK
+	.download bin
+
+
 ; Заголовок .rk
 	.ORG	0FCH
 
