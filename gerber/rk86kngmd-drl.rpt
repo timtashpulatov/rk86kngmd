@@ -1,0 +1,26 @@
+Drill report for /home/tnt23/git/rk86kngmd/rk86kngmd.kicad_pcb
+Created on Сб 14 янв 2017 19:35:55
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'rk86kngmd.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (286 holes)
+    T2  0,76mm  0,030"  (128 holes)
+    T3  0,80mm  0,031"  (14 holes)
+    T4  0,90mm  0,035"  (163 holes)
+    T5  1,00mm  0,039"  (11 holes)
+
+    Total plated holes count 602
+
+
+Drill file 'rk86kngmd-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
