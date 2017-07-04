@@ -479,6 +479,11 @@
       (net 41 WR_DATA))
     (pad 20 thru_hole circle (at 0 -7.5 270) (size 1.5 1.5) (drill 0.762) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
+      (at (xyz -0.2952755905511811 0.3051181102362205 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module DIP16-2.5mm (layer F.Cu) (tedit 5723A9C5) (tstamp 571BE792)
@@ -529,6 +534,11 @@
       (net 97 /PC6))
     (pad 16 thru_hole circle (at 7.5 0 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-16_W7.62mm.wrl
+      (at (xyz 0 0.003937007874015749 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module DIP14-2.5mm locked (layer F.Cu) (tedit 57229EE8) (tstamp 571BEADE)
@@ -637,6 +647,11 @@
       (net 111 /D7))
     (pad 20 thru_hole circle (at 0 -7.5 90) (size 1.5 1.5) (drill 0.762) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
+      (at (xyz -0.2952755905511811 0.3051181102362205 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module DIP24-2.5mm locked (layer F.Cu) (tedit 572278BE) (tstamp 571BE168)
@@ -702,6 +717,11 @@
       (net 31 "Net-(DD17-Pad1)"))
     (pad 24 thru_hole circle (at 0 -20 270) (size 1.5 1.5) (drill 0.762) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-24_W15.24mm.wrl
+      (at (xyz -0.5905511811023623 0.797244094488189 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Resistor_Vertical_RM2_5mm (layer F.Cu) (tedit 57210F6C) (tstamp 571BECB1)
@@ -1441,6 +1461,11 @@
       (net 13 GND))
     (pad 16 thru_hole circle (at 7.5 0 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-16_W7.62mm.wrl
+      (at (xyz 0 0.003937007874015749 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BE777)
@@ -1961,6 +1986,11 @@
       (net 129 /A8))
     (pad 24 thru_hole circle (at 0 -20 90) (size 1.5 1.5) (drill 0.762) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-24_W15.24mm.wrl
+      (at (xyz -0.5905511811023623 0.797244094488189 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Pin_Headers:Pin_Header_Straight_1x01 (layer F.Cu) (tedit 57266EB9) (tstamp 57267005)
@@ -2086,6 +2116,11 @@
       (net 11 "Net-(D1-Pad39)"))
     (pad 40 thru_hole circle (at 7.5 -23.75 270) (size 1.5 1.5) (drill 0.762) (layers *.Cu *.Mask F.SilkS)
       (net 12 "Net-(D1-Pad40)"))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-40_W15.24mm.wrl
+      (at (xyz -0.2952755905511811 0.9488188976377954 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (gr_text "2016 tnt23" (at 251.59 119.335) (layer F.Cu)
