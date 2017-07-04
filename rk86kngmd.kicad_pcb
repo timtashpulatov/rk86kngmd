@@ -716,6 +716,11 @@
       (net 33 +5V))
     (pad 2 thru_hole circle (at 0 0 180) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 17 WPRT))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Capacitors_ThroughHole:C_Disc_D6_P5 (layer F.Cu) (tedit 0) (tstamp 571D0D7D)
@@ -1127,6 +1132,11 @@
       (net 33 +5V))
     (pad 2 thru_hole circle (at 0 0 180) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 20 IP))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:Resistor_Vertical_RM2_5mm (layer F.Cu) (tedit 57210F6C) (tstamp 571BEC99)
@@ -1146,6 +1156,11 @@
       (net 22 "Net-(DD10-Pad1)"))
     (pad 2 thru_hole circle (at 0 0 180) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 33 +5V))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:Resistor_Vertical_RM2_5mm (layer F.Cu) (tedit 57210F6C) (tstamp 571BECAB)
@@ -1165,6 +1180,11 @@
       (net 33 +5V))
     (pad 2 thru_hole circle (at 0 0) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 18 READY))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:Resistor_Vertical_RM2_5mm (layer F.Cu) (tedit 57210F6C) (tstamp 571BECA5)
@@ -1184,6 +1204,11 @@
       (net 33 +5V))
     (pad 2 thru_hole circle (at 0 0 180) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 19 TR00))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:Resistor_Vertical_RM2_5mm (layer F.Cu) (tedit 57210F6C) (tstamp 571BECB7)
@@ -1203,6 +1228,11 @@
       (net 33 +5V))
     (pad 2 thru_hole circle (at 0 0 180) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 85 RD_DATA))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BF5D1)
@@ -1594,6 +1624,11 @@
       (net 49 "Net-(DD11-Pad5)"))
     (pad 2 thru_hole circle (at 0 0 180) (size 1.5 1.5) (drill 0.8) (layers *.Cu *.SilkS *.Mask)
       (net 87 "Net-(C1-Pad1)"))
+    (model ${KIPRJMOD}/3d/rc05vert.wrl
+      (at (xyz -0.04921259842519685 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BEAC5)
