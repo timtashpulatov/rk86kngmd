@@ -575,6 +575,11 @@
       (net 34 "Net-(DD17-Pad13)"))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module DIP20-2.5mm locked (layer F.Cu) (tedit 57228664) (tstamp 571BE186)
@@ -744,9 +749,9 @@
       (net 87 "Net-(C1-Pad1)"))
     (pad 2 thru_hole circle (at 5 0 180) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 13 GND))
-    (model Capacitors_ThroughHole.3dshapes/C_Disc_D6_P5.wrl
-      (at (xyz 0.0984252 0 0))
-      (scale (xyz 1 1 1))
+    (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Disc_D6.0mm_W2.5mm_P5.00mm.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1279,6 +1284,11 @@
       (net 44 "Net-(DD11-Pad3)"))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BE7C4)
@@ -1325,6 +1335,11 @@
       (net 81 "Net-(DD12-Pad13)"))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm locked (layer F.Cu) (tedit 57229EE8) (tstamp 571BE7AB)
@@ -1371,6 +1386,11 @@
       (net 22 "Net-(DD10-Pad1)"))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP16-2.5mm (layer F.Cu) (tedit 5723A9C5) (tstamp 571BF070)
@@ -1467,6 +1487,11 @@
       (net 65 "Net-(DD8-Pad13)"))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 56 "Net-(DD7-Pad11)"))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BE75E)
@@ -1513,6 +1538,11 @@
       (net 57 "Net-(DD7-Pad13)"))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 130 /OSC))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BEA7A)
@@ -1559,6 +1589,11 @@
       (net 85 RD_DATA))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:DIP14-2.5mm (layer F.Cu) (tedit 57229EE8) (tstamp 571BEAAC)
@@ -1605,6 +1640,11 @@
       (net 16 /RD))
     (pad 14 thru_hole circle (at -7.5 -20 90) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:Resistor_Vertical_RM2_5mm (layer F.Cu) (tedit 57210F6C) (tstamp 571BEC93)
@@ -1675,6 +1715,11 @@
       (net 110 /A0))
     (pad 14 thru_hole circle (at -7.5 -20) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 33 +5V))
+    (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+      (at (xyz -0.5905511811023623 0.7874015748031497 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module rk86ngmd:ОНп-КС-23 (layer F.Cu) (tedit 572455CD) (tstamp 572483B6)
